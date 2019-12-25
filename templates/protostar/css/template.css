@@ -7203,6 +7203,7 @@ body.site.fluid {
 	-moz-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
 	-webkit-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
 	box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
+    background-image: url("/tmp/1566372813420.JPEG");
 }
 .well .page-header {
 	margin: 0px 0px 5px 0px;
