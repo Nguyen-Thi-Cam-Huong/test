@@ -7131,7 +7131,7 @@ body {
 body.site {
 	border-top: 3px solid #0088cc;
 	padding: 20px;
-	background-color: #f4f6f7;
+	background-color: #649df2;
 }
 body.site.fluid {
 	background-color: #ffffff;
@@ -7203,7 +7203,7 @@ body.site.fluid {
 	-moz-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
 	-webkit-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
 	box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
-    background-image: url("/tmp/1566372813420.JPEG");
+    /*background-image: url("https://d1nqx6es26drid.cloudfront.net/app/uploads/2019/12/25000508/masthead_bg2-scaled.jpg");*/
 }
 .well .page-header {
 	margin: 0px 0px 5px 0px;
