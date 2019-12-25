@@ -7166,6 +7166,7 @@ body.site.fluid {
 }
 .header {
 	margin-bottom: 10px;
+	background-color: red;
 }
 .header .finder {
 	margin-top: 14px;
